@@ -1,2 +1,5 @@
-# Customer-Segmentation-in-Insurance-
-To present a detailed analysis of customer segmentation within an insurance portfolio to enhance marketing strategies, customer retention, and product development.
+# Customer Segmentation in Insurance
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* **Objective :**
+  
+This case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customer groups. 
